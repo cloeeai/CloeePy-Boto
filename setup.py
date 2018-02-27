@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='CloeePy-Boto',
-    version='0.0.0-rc1',
+    version='0.0.0',
     packages=['cloeepy_boto',],
     package_data = {
         'cloeepy_boto': ['data/*.yml'],
